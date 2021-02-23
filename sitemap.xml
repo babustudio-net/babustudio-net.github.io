@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://babustudio.net/posts/example-post/</loc>
+    <lastmod>2021-02-22T03:42:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://babustudio.net/posts/</loc>
+    <lastmod>2021-02-22T03:40:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://babustudio.net/about/</loc>
+    <lastmod>2021-02-22T03:39:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://babustudio.net/</loc>
+    <lastmod>2021-02-22T02:06:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://babustudio.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babustudio.net/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babustudio.net/tags/</loc>
+  </url>
+  
+</urlset>
