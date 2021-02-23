@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BabuStudio</title>
-    <link>https://babustudio.net/posts/</link>
+    <link>https://babustudio-net.github.io/posts/</link>
     <description>Recent content in Posts on BabuStudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2017-2021, babustudio.net</copyright>
-    <lastBuildDate>Mon, 22 Feb 2021 03:40:37 -0500</lastBuildDate><atom:link href="https://babustudio.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 03:40:37 -0500</lastBuildDate><atom:link href="https://babustudio-net.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
-      <link>https://babustudio.net/posts/example-post/</link>
+      <link>https://babustudio-net.github.io/posts/example-post/</link>
       <pubDate>Mon, 22 Feb 2021 03:42:02 -0500</pubDate>
       
-      <guid>https://babustudio.net/posts/example-post/</guid>
+      <guid>https://babustudio-net.github.io/posts/example-post/</guid>
       <description>jkfjdkjfkd</description>
     </item>
     
