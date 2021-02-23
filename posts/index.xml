@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on BabuStudio</title>
+    <title>最新资讯 on BabuStudio</title>
     <link>https://babustudio-net.github.io/posts/</link>
-    <description>Recent content in Posts on BabuStudio</description>
+    <description>Recent content in 最新资讯 on BabuStudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2017-2021, babustudio.net</copyright>
     <lastBuildDate>Mon, 22 Feb 2021 03:40:37 -0500</lastBuildDate><atom:link href="https://babustudio-net.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
