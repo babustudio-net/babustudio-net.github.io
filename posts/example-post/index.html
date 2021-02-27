@@ -35,6 +35,8 @@
                 
                 <li class="nav-home" role="menuitem"><a href="https://www.babustudio.net/about/">关于我们</a></li>
                 
+                <li class="nav-home" role="menuitem"><a href="https://www.babustudio.net/join/">加入我们</a></li>
+                
                 <li class="nav-home" role="menuitem"><a href="https://www.babustudio.net/contact/">联系方式</a></li>
                 
             </ul>
@@ -52,6 +54,12 @@
         <article class="post-full post  no-image ">
 
             <header class="post-full-header">
+
+                <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+                <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
 
                 
 
@@ -88,27 +96,38 @@
             </section>
 
         </article>
-
+        <script src="https://www.babustudio.net/dist/clipboard.min.js"></script>
+        <script>
+            var clipboard = new ClipboardJS('.clipboard');
+      
+            clipboard.on('success', function (e) {
+              console.log(e);
+            });
+      
+            clipboard.on('error', function (e) {
+              console.log(e);
+            });
+          </script>
     </div>
 </main>
-<aside class="read-next outer">
-    <div class="inner">
-        <div class="read-next-feed">
 
-            
-        </div>
-    </div>
-</aside>
+
+
+
+
 
 
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
-                <section class="copyright"><a href="https://www.babustudio.net/">BabuStudio</a> &copy; 2021</section>
+                <section class="copyright"><a href="https://www.babustudio.net/">BabuStudio</a> &copy; 2021 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. </section><br>
                 <nav class="site-footer-nav">
                     <a href="https://www.babustudio.net/">Latest Posts</a>
                     
                     
                     
+                    <a href="https://space.bilibili.com/12236038/" target="_blank" rel="noopener">BiliBili</a>
+                    <a href="https://www.youtube.com/channel/UCy1131hPpwupxy9qCaGEZuQ" target="_blank" rel="noopener">YouTube</a>
+                    <a href="http://i.youku.com/babustudio" target="_blank" rel="noopener">优酷</a>
                     <a href="https://jonathanjanssens.com" target="_blank" rel="noopener" style="opacity: 0.5;">Hugo Casper3 by Jonathan Janssens</a>
                 </nav>
             </div>
